@@ -7,6 +7,7 @@ Project of X082020 Advanced Biomedical Image Processing, a QT GUI with VTK7.0 an
 💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩
 
 ### This Shit Mountain includes Lady Lena & an adorable Doraemon as follows:
+
 #### 1. Thresholding: OTSU & Entropy and Histgram
 
 ![](https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/2020-06-17_165056.png)
@@ -23,7 +24,9 @@ Project of X082020 Advanced Biomedical Image Processing, a QT GUI with VTK7.0 an
 
 #### 4. ?
 
-![](https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/2020-06-17_172916.png){:height="50%" width="50%"}
+ <img src="https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/2020-06-17_172916.png" width = "300" height = "400" alt="图片名称" align=center />
+
+![](https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/2020-06-17_172916.png)
 
 ![](https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/2020-06-17_172155.png =300x300)
 
