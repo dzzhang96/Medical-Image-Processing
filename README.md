@@ -21,9 +21,9 @@ Project of X082020 Advanced Biomedical Image Processing, a QT GUI with VTK7.0 an
 
 ![skeleton anime](https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/ezgif-4-f6c54188bf18.gif)
 
-###4. ?
+#### 4. ?
 
-![](https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/2020-06-17_172916.png =300x300)
+![](https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/2020-06-17_172916.png){:height="50%" width="50%"}
 
 ![](https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/2020-06-17_172155.png =300x300)
 
