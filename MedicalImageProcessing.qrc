@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="MedicalImageProcessing">
+    <file>play.png</file>
+    <file>red_button.png</file>
+  </qresource>
+</RCC>
