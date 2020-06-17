@@ -23,6 +23,6 @@ Project of X082020 Advanced Biomedical Image Processing, a QT GUI with VTK7.0 an
 
 #### 4. ?
 
-<img src="https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/2020-06-17_172916.png" width = "230" align/>
+<img src="https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/2020-06-17_172916.png" width = "230" align=left />
 <img src="https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/2020-06-17_172155.png" width = "230" />
 <img src="https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/2020-06-17_172250.png" width = "230" align=right />
