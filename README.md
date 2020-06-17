@@ -1,14 +1,12 @@
-# Medical-Image-Processing
+# SHIT-MOUNTAIN-WARNING
 
-Orbital Rim Registration Software V1.0
+💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩
 
-X082020 Advanced Biomedical Image Processing
+Project of X082020 Advanced Biomedical Image Processing, A QT GUI based on VTK7.0 and OpenCV. (you can cmake it😀)
 
-A simple software for points registration based on VTK7.0 and Qt5.0. (you can cmake it😀)
+💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩
 
 SHIT MOUNTAIN
-
-
 
 demo:
 
@@ -22,11 +20,7 @@ d
 
 ![](https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/ezgif-4-23bb80449a97.gif)
 
-
-
 ![](https://github.com/dzzhang96/Medical-Image-Processing/blob/master/images/ezgif-4-f6c54188bf18.gif)
-
-
 
 bonus:
 
