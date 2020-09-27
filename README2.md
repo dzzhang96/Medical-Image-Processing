@@ -1,8 +1,12 @@
-# Readme
+# ⚠SHIT-MOUNTAIN-WARNING⚠
 
-Course Project of X082020 Advanced Biomedical Image Processing, a QT GUI with VTK7.0 and OpenCV3.4 (you can cmake it😀).
+💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩
 
-### Include lady Lena & an adorable Doraemon as follows:
+Project of X082020 Advanced Biomedical Image Processing, a QT GUI with VTK7.0 and OpenCV3.4 (you can cmake it😀).
+
+💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩
+
+### This Shit Mountain includes lady Lena & an adorable Doraemon as follows:
 
 #### 1. Thresholding: OTSU & Entropy and Histgram
 
